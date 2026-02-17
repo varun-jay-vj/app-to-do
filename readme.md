@@ -2,8 +2,7 @@
 
 A simple, elegant task management application built with Streamlit and SQLite3.
 
-<img width="1141" height="888" alt="image" src="https://github.com/user-attachments/assets/a4d70a94-7bc4-4fa6-aed3-1bd9cbe223a4" />
-
+<img width="909" height="712" alt="app-to-do" src="https://github.com/user-attachments/assets/d9df85e4-f638-4064-b332-3db6a314b2db" />
 
 ## Features
 
@@ -92,3 +91,4 @@ Free to use and modify as needed.
 
 
 Feel free to submit issues or pull requests for improvements.
+
