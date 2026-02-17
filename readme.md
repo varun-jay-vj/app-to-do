@@ -2,6 +2,9 @@
 
 A simple, elegant task management application built with Streamlit and SQLite3.
 
+<img width="1141" height="888" alt="image" src="https://github.com/user-attachments/assets/a4d70a94-7bc4-4fa6-aed3-1bd9cbe223a4" />
+
+
 ## Features
 
 - **Persistent Storage** – Tasks are saved to a SQLite database and persist across sessions
@@ -86,5 +89,6 @@ sample_tasks = [
 Free to use and modify as needed.
 
 ## Contributing
+
 
 Feel free to submit issues or pull requests for improvements.
